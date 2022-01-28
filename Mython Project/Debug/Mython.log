@@ -1,0 +1,12 @@
+﻿  parser.cpp
+C:\Users\halif\programming\Mython\Mython\parser.cpp(9,1): warning C4297: 'Parser::parseString': function assumed not to throw an exception but does
+C:\Users\halif\programming\Mython\Mython\parser.cpp(9,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\halif\programming\Mython\Mython\parser.cpp(45,1): warning C4297: 'Parser::parseString': function assumed not to throw an exception but does
+C:\Users\halif\programming\Mython\Mython\parser.cpp(45,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\halif\programming\Mython\Mython\parser.cpp(61,1): warning C4297: 'Parser::parseString': function assumed not to throw an exception but does
+C:\Users\halif\programming\Mython\Mython\parser.cpp(61,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+C:\Users\halif\programming\Mython\Mython\parser.cpp(113,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\halif\programming\Mython\Mython\parser.cpp(320,17): warning C4018: '<': signed/unsigned mismatch
+  Void.cpp
+  Generating Code...
+  Mython.vcxproj -> C:\Users\halif\programming\Mython\Debug\Mython.exe
